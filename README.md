@@ -25,3 +25,17 @@ It enables faster and more reliable software delivery.
 ---
 
 This is Day 1. More updates daily!
+
+---
+
+## 🛠️ DevOps Tools I Will Learn
+
+| Category | Tool |
+|----------|------|
+| Version Control | Git, GitHub |
+| CI/CD | GitHub Actions |
+| Containerization | Docker, Docker Compose |
+| IaC | Terraform |
+| Monitoring | Prometheus, Grafana |
+| Logging | ELK Stack |
+| Cloud | AWS, Heroku |
